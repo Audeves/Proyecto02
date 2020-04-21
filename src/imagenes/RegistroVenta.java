@@ -9,7 +9,7 @@ import GUI.*;
 
 /**
  *
- * @author Sebas
+ * @author Luis
  */
 public class RegistroVenta extends javax.swing.JInternalFrame {
 

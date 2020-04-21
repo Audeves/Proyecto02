@@ -26,7 +26,7 @@ import javax.persistence.TemporalType;
 
 /**
  *
- * @author Mario
+ * @author Luis
  */
 @Entity
 @Table(name ="ventas")
