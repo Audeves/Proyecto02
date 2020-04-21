@@ -8,6 +8,7 @@
     <class>objetosNegocio.Producto</class>
     <class>objetosNegocio.Cliente</class>
     <class>objetosNegocio.Proveedor</class>
+    <class>ObjetosNegocio.Categoria</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/punto_venta?serverTimezone=UTC"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
