@@ -3,12 +3,11 @@
   <persistence-unit name="proyecto02PU" transaction-type="RESOURCE_LOCAL">
     <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
     <class>objetosNegocio.Relproductoventas</class>
-    <class>objetosNegocio.Venta</class>
-    <class>objetosNegocio.Categoria</class>
-    <class>objetosNegocio.Producto</class>
-    <class>objetosNegocio.Cliente</class>
     <class>objetosNegocio.Proveedor</class>
     <class>ObjetosNegocio.Categoria</class>
+    <class>ObjetosNegocio.Producto</class>
+    <class>ObjetosNegocio.Venta</class>
+    <class>ObjetosNegocio.Cliente</class>
     <properties>
       <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/punto_venta?serverTimezone=UTC"/>
       <property name="javax.persistence.jdbc.user" value="root"/>
